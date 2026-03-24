@@ -200,10 +200,10 @@ src/
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-pralnitika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pralnitika@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitika_Pral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitika-pral)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitika_Pral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitika-pral-6a80a22a7/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nitikapral-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitikapral)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nitikapral.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nitikapral.github.io/portfolio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919541614951)
 
 </div>
 
